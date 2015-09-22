@@ -1,0 +1,9 @@
+mkdir R_git
+cd R_git 
+git init
+git remote add origin https://github.com/anjana-babu/RProgramming.git
+git add .
+git add -u
+git add -A
+git commit -m "Added commands file" (only in local repo) 
+git push (in github remote)
