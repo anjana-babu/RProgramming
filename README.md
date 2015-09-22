@@ -1,10 +1,9 @@
 # RProgramming
 Some code snippets in R
 
-## Categories
 
-# Basics in R
+## Basics in R
 
-# NLP
+## NLP
 
-# Machine Learning
+## Machine Learning
