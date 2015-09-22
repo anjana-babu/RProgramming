@@ -1,0 +1,8 @@
+mkdir R_git
+cd R_git 
+git init
+git remote add origin https://github.com/anjana-babu/RProgramming.git
+git add .
+git add -u
+git add -A
+
